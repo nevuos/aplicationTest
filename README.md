@@ -1,4 +1,4 @@
-[![Build Status](https://app.travis-ci.com/nevuos/aplicationTest.svg?token=TxALTjYTyKWhcqXczoB9&branch=main)]
+[Build Status](https://app.travis-ci.com/nevuos/aplicationTest.svg?token=TxALTjYTyKWhcqXczoB9&branch=main)
 
 # Getting Started
 
