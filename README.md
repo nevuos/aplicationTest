@@ -1,1 +1,0 @@
-https://app.travis-ci.com/nevuos/aplicationTest.svg?token=TxALTjYTyKWhcqXczoB9&branch=main
